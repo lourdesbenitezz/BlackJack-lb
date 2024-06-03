@@ -2,6 +2,7 @@ import './style.css';
 import _ from 'underscore';
 
 //pueba con git github
+//************** */
 //variables globales
 let deck                  = [];
 let puntosJugador         =0;
