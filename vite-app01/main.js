@@ -4,6 +4,8 @@ import _ from 'underscore';
 //pueba con git github
 //************** */
 //variables globales
+///************************* */
+
 let deck                  = [];
 let puntosJugador         =0;
 let puntosComputadora     =0;
